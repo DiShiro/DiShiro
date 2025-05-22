@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Проекты
-### Одностраничные макеты html
-- ( https://github.com/DiShiro/test-site.io )
+### Одностраничные макеты html, css
+- [Castaway]( https://github.com/DiShiro/castaway1.git )
+### Проект с настройкой окружения
