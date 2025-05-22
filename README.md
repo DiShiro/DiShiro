@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ### Чистый JS
 - [Калькулятор](https://github.com/DiShiro/calculator.git)
-- [Светофор](https://github.com/DiShiro/traffic-light.git)-git@github.com:DiShiro/traffic-light.git
+- [Светофор](https://github.com/DiShiro/traffic-light.git)
 
 
