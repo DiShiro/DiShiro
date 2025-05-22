@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 ### Одностраничные макеты html, css
 - [Castaway]( https://github.com/DiShiro/castaway1.git )
 ### Проект с настройкой окружения
+-[Игры разума] (https://github.com/DiShiro/frontend-project-44.git)
+
+### Чистый JS
+- [Калькулятор](https://github.com/DiShiro/calculator.git)
+- [Светофор](https://github.com/DiShiro/traffic-light.git)
+
+
